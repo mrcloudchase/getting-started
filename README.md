@@ -16,7 +16,7 @@ Welcome to the "Getting Started" repository! This guide is designed to help you 
     - [DevOps Engineering](#devops-engineering)
     - [AI Engineering](#ai-engineering)
 3. [Getting Started with Your Learning Path](#getting-started-with-your-learning-path)
-4. [Additional Resources](#additional-resources)
+4. [Additional Learning Resources](#additional-learning-resources)
 5. [Contact and Support](#contact-and-support)
 
 ## Introduction
